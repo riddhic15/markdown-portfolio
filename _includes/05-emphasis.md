@@ -1,1 +1,1 @@
-I am a _freshman_ at **_IGDTUW_** pursuing _B.Tech_ in **Information Technology**. I have the knowledge of basic **C++** :girl. I am learning **HTML** and **CSS**. I am eager to explore the diverse fields of technology. ✨ 
+I am a _freshman_ at **_IGDTUW_** pursuing _B.Tech_ in **Information Technology**. I have the knowledge of basic **C++**. I am learning **HTML** and **CSS**. I am eager to explore the diverse fields of technology. ✨ 
