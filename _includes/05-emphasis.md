@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a _freshman_ at **_IGDTUW_** pursuing _B.Tech_ in **Information Technology**. I have the knowledge of basic **C++** :girl. I am learning **HTML** and **CSS**. I am eager to explore the diverse fields of technology. ✨ 
