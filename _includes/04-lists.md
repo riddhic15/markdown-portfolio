@@ -2,5 +2,5 @@
 - Baking
 - Sketching
 - Playing
-   - Badminton
-   - Basketball
+   1. Badminton
+   2. Basketball
